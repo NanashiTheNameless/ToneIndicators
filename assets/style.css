@@ -1024,3 +1024,53 @@ table td {
     width: calc(50% - (30px / 2));
   }
 }
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  max-width: 90vw;
+  padding: 2rem;
+  background-color: var(--minima-background-color);
+}
+
+h1,
+.post-title,
+.post-content h1 {
+  font-size: clamp(2rem, 8vw, 5rem) !important;
+  margin: 0.5em 0;
+}
+
+p,
+ol li,
+blockquote p {
+  font-size: clamp(1rem, 3vw, 1.75rem) !important;
+  line-height: 1.4;
+  margin: 0.75em 0;
+}
+
+ol {
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+ol li {
+  margin: 0.5em 0;
+}
+
+blockquote {
+  margin: 1em 0;
+  padding: 0;
+  border-left: none;
+}
