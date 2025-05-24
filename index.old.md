@@ -31,4 +31,4 @@
 | /th                | threat                                                                                    |
 | /cb                | clickbait                                                                                 |
 |                    |                                                                                           |
-| LICENSE            | <https://github.com/NanashiTheNameless/ToneIndicators/blob/main/LICENSE.md>               |
+| LICENSE            | <LICENSE.md>                                                                              |
