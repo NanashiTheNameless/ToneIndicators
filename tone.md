@@ -32,6 +32,6 @@
 | /fa                     | fake                                                                                               |
 | /th                     | threat                                                                                             |
 | /cb                     | clickbait                                                                                          |
-| /mrv                    | [read in Matt Rose's voice](<https://www.youtube.com/@Matt_Rose>)                                  |
+| /mrn or /mrv            | [read in Matt Rose's voice](<https://www.youtube.com/@Matt_Rose>)                                  |
 |                         |                                                                                                    |
 | [LICENSE](<LICENSE.md>) | [LICENSE](<LICENSE.md>)                                                                            |
